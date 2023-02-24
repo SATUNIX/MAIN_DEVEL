@@ -8,4 +8,4 @@ cd MAIN_DEVEL
 sudo chmod 755 *
 
 INSTALL:
-sudo ./installer.sh
+sudo ./module_installer.sh
