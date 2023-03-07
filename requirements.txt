@@ -1,9 +1,2 @@
-numpy==1.21.0
-matplotlib==3.4.2
-scipy==1.7.0
-Pillow==8.3.1
-beautifulsoup4==4.9.3
-requests==2.26.0
+wifi==0.3.10
 scapy==2.4.5
-pyshark==0.4.3.2
-cryptography==3.4.7
